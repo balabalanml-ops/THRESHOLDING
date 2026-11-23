@@ -54,9 +54,8 @@ plt.axis('off')
 
 ## OUTPUT:
 
-<img width="267" height="363" alt="image" src="https://github.com/user-attachments/assets/c1a7431b-45ec-404e-813f-e4057544aac4" />
+<img width="462" height="298" alt="image" src="https://github.com/user-attachments/assets/f9bcf750-6223-4d40-9e32-ddf8bf55fef1" />
 
-## CODE:
 
 ### Global Thresholding with a Threshold value of 127:
 
@@ -120,8 +119,8 @@ plt.show()
 ```
 
 ## OUTPUT:
+<img width="1175" height="762" alt="image" src="https://github.com/user-attachments/assets/2d5753eb-9e3c-4bd7-82ba-abb631ad4d9f" />
 
-<img width="682" height="640" alt="image" src="https://github.com/user-attachments/assets/cf6ef07d-98e9-4d52-b18d-a0044730d10d" />
 
 ## Result:
 
